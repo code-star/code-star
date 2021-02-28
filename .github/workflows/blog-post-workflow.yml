@@ -13,4 +13,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/codestar-blog,https://www.youtube.com/feeds/videos.xml?playlist_id=PLy227h3xpH-FcHw79drVFiVGMRDU8YhLH"
           max_post_count: 15
-          template: "- $date [$title]($url)"
+          template: "$newline- $date [$title]($url)"
