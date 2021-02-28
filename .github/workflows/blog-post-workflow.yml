@@ -15,4 +15,4 @@ jobs:
           max_post_count: 15
           date_format: "UTC:dd-mmm-yyyy"
           # template: "$newline- $date [$title]($url)"
-          template: "$newline### [$title]($url)$newline $date $newline $description"
+          template: "$newline### [$title]($url)$newline $date $newline $description $newline"
