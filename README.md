@@ -16,6 +16,14 @@ Find Codestar on:
 
 ## Publications
 <!-- BLOG-POST-LIST:START -->
+### [Martin van Es - GraphQL for the Lazy Developer](https://www.youtube.com/watch?v=EaQt031BByw)
+ 01-Jun-2021 
+  
+
+### [Bart Kuijper - The Power of Demystifying Your Stack](https://www.youtube.com/watch?v=Uq5Y080Por0)
+ 01-Jun-2021 
+  
+
 ### [Tika NERding: Getting started using Named-Entity Recognition with OpenNLP on the JVM (Scala, Java…](https://medium.com/codestar-blog/tika-nerding-getting-started-using-named-entity-recognition-with-opennlp-on-the-jvm-scala-java-befc396d6dc5?source=rss----ea5cff13e3c9---4)
  06-Nov-2020 
   
@@ -66,13 +74,5 @@ Find Codestar on:
 
 ### [Sharing is Caring! Domain objects in BOTH Scala and R with GraalVM Polyglot bindings.](https://medium.com/codestar-blog/sharing-is-caring-domain-objects-in-both-scala-and-r-with-graalvm-polyglot-bindings-b561e8cfbcfa?source=rss----ea5cff13e3c9---4)
  01-May-2019 
-  
-
-### [Using generative art to create a pulsating SVG star](https://medium.com/codestar-blog/using-generative-art-to-create-a-pulsating-svg-star-cd7456268dc5?source=rss----ea5cff13e3c9---4)
- 12-Apr-2019 
-  
-
-### [In Search of the Holy GraalVM, putting the R in Scala (or Java, or…)](https://medium.com/codestar-blog/in-search-of-the-holy-graalvm-putting-the-r-in-scala-or-java-or-b057494f77?source=rss----ea5cff13e3c9---4)
- 22-Mar-2019 
   
 <!-- BLOG-POST-LIST:END -->
