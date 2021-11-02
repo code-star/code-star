@@ -16,6 +16,10 @@ Find Codestar on:
 
 ## Publications
 <!-- BLOG-POST-LIST:START -->
+### [Developers van Ordina dragen bij aan duurzame doelen Havenbedrijf Rotterdam](https://www.youtube.com/watch?v=tSesmVPwKZk)
+ 27-Oct-2021 
+  
+
 ### [Martin van Es - GraphQL for the Lazy Developer](https://www.youtube.com/watch?v=EaQt031BByw)
  01-Jun-2021 
   
@@ -70,9 +74,5 @@ Find Codestar on:
 
 ### [Apollo Client in Practice](https://medium.com/codestar-blog/apollo-client-in-practice-f81434f6f8d7?source=rss----ea5cff13e3c9---4)
  02-May-2019 
-  
-
-### [Sharing is Caring! Domain objects in BOTH Scala and R with GraalVM Polyglot bindings.](https://medium.com/codestar-blog/sharing-is-caring-domain-objects-in-both-scala-and-r-with-graalvm-polyglot-bindings-b561e8cfbcfa?source=rss----ea5cff13e3c9---4)
- 01-May-2019 
   
 <!-- BLOG-POST-LIST:END -->
