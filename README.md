@@ -16,6 +16,10 @@ Find Codestar on:
 
 ## Publications
 <!-- BLOG-POST-LIST:START -->
+### [Ordina Codestar at Port Of Rotterdam](https://www.youtube.com/watch?v=yWV1eOozlOQ)
+ 09-Nov-2021 
+  
+
 ### [Developers van Ordina dragen bij aan duurzame doelen Havenbedrijf Rotterdam](https://www.youtube.com/watch?v=tSesmVPwKZk)
  27-Oct-2021 
   
@@ -71,8 +75,4 @@ Find Codestar on:
 ### [How we automated our Angular updates](https://medium.com/codestar-blog/how-we-automated-our-angular-updates-9790212aa211?source=rss----ea5cff13e3c9---4)
  21-May-2019 
  &lt;div class=&quot;medium-feed-item&quot;&gt;&lt;p class=&quot;medium-feed-image&quot;&gt;&lt;a href=&quot;https://medium.com/codestar-blog/how-we-automated-our-angular-updates-9790212aa211?source=rss----ea5cff13e3c9---4&quot;&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/600/1*ZEGWmf7hHjjJsDOXVB_c9A.png&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class=&quot;medium-feed-snippet&quot;&gt;This article was written with the help of Jan-Hendrik Kuperus and Nathan Perdijk.&lt;/p&gt;&lt;p class=&quot;medium-feed-link&quot;&gt;&lt;a href=&quot;https://medium.com/codestar-blog/how-we-automated-our-angular-updates-9790212aa211?source=rss----ea5cff13e3c9---4&quot;&gt;Continue reading on Codestar blog »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt; 
-
-### [Apollo Client in Practice](https://medium.com/codestar-blog/apollo-client-in-practice-f81434f6f8d7?source=rss----ea5cff13e3c9---4)
- 02-May-2019 
-  
 <!-- BLOG-POST-LIST:END -->
