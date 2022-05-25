@@ -16,6 +16,10 @@ Find Codestar on:
 
 ## Publications
 <!-- BLOG-POST-LIST:START -->
+### [VanDeBron, KPN &amp; Ordina - Met moderne technologie bouwen aan een duurzame software-oplossing](https://www.youtube.com/watch?v=v8rFXbLV03Q)
+ 20-May-2022 
+  
+
 ### [Ordina Codestar at Port Of Rotterdam](https://www.youtube.com/watch?v=yWV1eOozlOQ)
  09-Nov-2021 
   
@@ -71,8 +75,4 @@ Find Codestar on:
 ### [Codestar Advanced Kotlin Aftermovie](https://www.youtube.com/watch?v=8KMrTgv32W8)
  04-Jun-2019 
   
-
-### [How we automated our Angular updates](https://medium.com/codestar-blog/how-we-automated-our-angular-updates-9790212aa211?source=rss----ea5cff13e3c9---4)
- 21-May-2019 
- &lt;div class=&quot;medium-feed-item&quot;&gt;&lt;p class=&quot;medium-feed-image&quot;&gt;&lt;a href=&quot;https://medium.com/codestar-blog/how-we-automated-our-angular-updates-9790212aa211?source=rss----ea5cff13e3c9---4&quot;&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/600/1*ZEGWmf7hHjjJsDOXVB_c9A.png&quot; width=&quot;600&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class=&quot;medium-feed-snippet&quot;&gt;This article was written with the help of Jan-Hendrik Kuperus and Nathan Perdijk.&lt;/p&gt;&lt;p class=&quot;medium-feed-link&quot;&gt;&lt;a href=&quot;https://medium.com/codestar-blog/how-we-automated-our-angular-updates-9790212aa211?source=rss----ea5cff13e3c9---4&quot;&gt;Continue reading on Codestar blog »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt; 
 <!-- BLOG-POST-LIST:END -->
