@@ -16,7 +16,7 @@ Find Codestar on:
 
 ## Publications
 <!-- BLOG-POST-LIST:START -->
-### [VanDeBron, KPN &amp; Ordina - Met moderne technologie bouwen aan een duurzame software-oplossing](https://www.youtube.com/watch?v=v8rFXbLV03Q)
+### [VandeBron, KPN &amp; Ordina - Met moderne technologie bouwen aan een duurzame software-oplossing](https://www.youtube.com/watch?v=v8rFXbLV03Q)
  20-May-2022 
   
 
