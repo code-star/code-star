@@ -16,7 +16,7 @@ Find Codestar on:
 
 ## Publications
 <!-- BLOG-POST-LIST:START -->
-### [VandeBron, KPN &amp; Ordina - Met moderne technologie bouwen aan een duurzame software-oplossing](https://www.youtube.com/watch?v=v8rFXbLV03Q)
+### [Met moderne technologie bouwen aan een duurzame software-oplossing](https://www.youtube.com/watch?v=v8rFXbLV03Q)
  20-May-2022 
   
 
@@ -24,7 +24,7 @@ Find Codestar on:
  09-Nov-2021 
   
 
-### [Developers van Ordina dragen bij aan duurzame doelen Havenbedrijf Rotterdam](https://www.youtube.com/watch?v=tSesmVPwKZk)
+### [Ordina&#39;s draagt bij aan duurzame doelen van Havenbedrijf Rotterdam](https://www.youtube.com/watch?v=tSesmVPwKZk)
  27-Oct-2021 
   
 
